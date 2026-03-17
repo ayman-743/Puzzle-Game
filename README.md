@@ -1,7 +1,3 @@
-Here’s a clean, professional **README.md** you can directly use for GitHub:
-
----
-
 # 🧩 Puzzle Game (Sliding Puzzle)
 
 An interactive sliding puzzle game built using Python and Pygame.
